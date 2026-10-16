@@ -1,0 +1,7 @@
+condition,branch,evaluation_x_min_mm,evaluation_x_max_mm,reported_sample_count,reported_mean_force_N,reported_slope_N_per_mm,reported_raw_peak_to_peak_N,reported_raw_ripple_ratio,reported_residual_peak_to_peak_N,reported_residual_ripple_ratio,reported_residual95_ripple_ratio,source_pdf_page,source_printed_page,source_table
+spring_only,Pull,100,850,1501,4.06,-0.00035,0.40,0.097,0.30,0.075,0.048,71,66,5.1
+spring_only,Return,100,850,1501,3.83,-0.00029,0.45,0.116,0.32,0.082,0.051,71,66,5.1
+mass_100g,Pull,100,850,1501,4.10,-0.00025,0.43,0.105,0.35,0.085,0.051,71,66,5.1
+mass_100g,Return,100,850,1501,3.85,-0.00019,0.32,0.084,0.31,0.081,0.053,71,66,5.1
+mass_200g,Pull,100,850,1501,4.17,-0.00012,0.33,0.079,0.31,0.074,0.051,71,66,5.1
+mass_200g,Return,100,850,1501,3.91,-0.000092,0.47,0.121,0.47,0.119,0.055,71,66,5.1

@@ -1,0 +1,15 @@
+{
+  "dataset_kind": "Reported numerical summary, not raw force/diameter time series",
+  "thesis_title": "定荷重ばねの出力特性に関する研究",
+  "source_pdf_pages": 92,
+  "table_pdf_page": 71,
+  "table_printed_page": 66,
+  "table": "5.1",
+  "reported_sampling": "100 to 850 mm; each branch N=1501; inferred 0.5 mm grid from method and N",
+  "condition_notes": "Downward 0 deg setup; mechanism cases: gear ratio 48, module 1, phase 85 deg, mass radius 50 mm; masses 100 g and 200 g. Spring-only case has no added mechanism.",
+  "precision": "Original reported precision preserved. Original Table 5.1 uses 0.40/0.45 N for spring-only raw P2P; Table 5.2 uses 0.39/0.44 N. No silent correction.",
+  "source_pdf_sha256": "3b574ef25b976ae2eb3c2bbe3816c289d9cd7d6f4d0de231c67f10ed6029ec53",
+  "raw_dataset_to_thesis_table_mapping": "NOT_CONFIRMED; located processed workbook metrics do not match the reported Table 5.1 values.",
+  "appendix_A": "Earlier collaborative SI2024-related experiment reanalysis; not included.",
+  "rights": "No new open license is applied. Current user publication authorization is recorded privately. Shared experimental datasets and third-party PDFs/assets are excluded pending rights evidence."
+}
